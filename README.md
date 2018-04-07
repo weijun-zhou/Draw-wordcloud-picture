@@ -4,4 +4,4 @@ a python-tkinter-wordcloud script
 
 background为背景图
 
-pic为结果图
+pic为效果图

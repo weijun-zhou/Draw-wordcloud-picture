@@ -83,7 +83,7 @@ def done():
     #生成后打开图片
     #img = Image.open('pic.png')
     #img.show()
-Submit = ttk.Button(win, text="选择文本文字", command=done)
+Submit = ttk.Button(win, text="选择文本图片", command=done)
 Submit.place(x=130, y=94)
 
 
